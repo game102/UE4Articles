@@ -1,11 +1,3 @@
 /*
-!.gitignore
-!/[Primer].uproject
-!/[Readme].txt
-!/Source/*
-!/Content/PrimerActor/*
-!/Content/PrimerCharacter/*
-!/Content/PrimerCombat/*
-!/Content/PrimerLevel/*
-!/Content/PrimerMechanics/*
-!/Content/PrimerPawn/*
+!Primer/Source/
+
