@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!/Primer/Primer.uproject
+!/Primer/Source
+!/Primer/Content/PrimerActor
+!/Primer/Content/PrimerCharacter
+!/Primer/Content/PrimerCombat
+!/Primer/Content/PrimerLevel
+!/Primer/Content/PrimerMechanics
+!/PrimerContent/PrimerPawn
