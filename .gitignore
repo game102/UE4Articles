@@ -1,6 +1,7 @@
 /*
 !.gitignore
 !/Primer/Primer.uproject
+!/Primer/readme.txt
 !/Primer/Source
 !/Primer/Content/PrimerActor
 !/Primer/Content/PrimerCharacter
